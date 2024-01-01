@@ -1,3 +1,2 @@
-D:\Programming\Youtube Videos\Java\MP3MusicPlayer\src\assets\Auld Lang Syne (Instrumental) - Jingle Punks.mp3
-D:\Programming\Youtube Videos\Java\MP3MusicPlayer\src\assets\Tropic Fuse - French Fuse.mp3
-D:\Programming\Youtube Videos\Java\MP3MusicPlayer\src\assets\Wind Riders - Asher Fulero.mp3
+C:\Users\ASUS\Downloads\Jaguar - Bohemia n Sukh E - 320Kbps.mp3
+C:\Users\ASUS\Downloads\Agar Tum Saath Ho(PagalWorld.com.sb).mp3
