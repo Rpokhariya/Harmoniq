@@ -1,0 +1,3 @@
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\Chaand Baaliyan Aditya A 128 Kbps.mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\Tu Chodiyo Na.mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\Rangi Sari.mp3

@@ -64,7 +64,7 @@ public class MusicPlayerGUI extends JFrame {
         addToolbar();
 
         // load record image
-        JLabel songImage = new JLabel(loadImage("src/assets/record.png"));
+        JLabel songImage = new JLabel(loadImage("src/assets/icon_main.png"));
         songImage.setBounds(0, 50, getWidth() - 20, 225);
         add(songImage);
 

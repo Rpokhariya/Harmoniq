@@ -1,0 +1,5 @@
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\128-Ishq Sufiyana (Male) - The Dirty Picture 128 Kbps.mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\128-Kun Faaya Kun - Rockstar 128 Kbps.mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\128-Sajdaa - My Name Is Khan 128 Kbps.mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\Teri-Deewani(PagalNew.Com.Se).mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\Saiyyan_7.mp3

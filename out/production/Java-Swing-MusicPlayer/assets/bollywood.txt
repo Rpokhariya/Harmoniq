@@ -1,0 +1,3 @@
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\128-Akhiyaan Gulaab - Teri Baaton Mein Aisa Uljha Jiya 128 Kbps.mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\128-Ae Mere Humsafar - Qayamat Se Qayamat Tak 128 Kbps.mp3
+C:\Users\profe\Desktop\Java-Swing-MusicPlayer\src\assets\128-Pehla Nasha - Jo Jeeta Wohi Sikandar 128 Kbps.mp3
